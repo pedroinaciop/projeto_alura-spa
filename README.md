@@ -13,7 +13,7 @@ O Projeto AluraSPA é um projeto básico de HTML e SASS feito na plataforma Alur
 ![Web 2](https://github.com/pedroinaciop/AluraSPA/blob/main/imagens/web-design-2.png)
 
 # Tecnologias utilizadas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,sass,scss)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
 
 # Autor
 
