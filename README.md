@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://pedroinaciop.github.io/AluraSPA/
+https://pedroinaciop.github.io/projeto_alura-spa/
 
 O Projeto AluraSPA é um projeto básico de HTML e SASS feito na plataforma Alura, como objetivo de iniciar meu aprendizado com essa tecnologia que facilita e aprimora as habilidades do desenvolvedor Front-End.
 
